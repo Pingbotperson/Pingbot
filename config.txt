@@ -1,0 +1,7 @@
+token=NTI5OTEyMjQ3OTE3NzQwMDMz.Dw3u-A.oQy07lCGZ3IHFBtL_dRHBIZOvHg 
+owner=427598376339767307
+prefix="!"
+game=Listening to musicals <3
+status=ONLINE
+stayinchannel=true
+maxtime=0
